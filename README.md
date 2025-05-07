@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @gguidone
-- 👀 I’m interested in blockchain, data science, machine learning, ai 
-- 🌱 I’m currently learning c
+- 👀 I’m interested in Control, Optimization and Reinforcement Learning
 - 📫 How to reach me @gennaro_wfk, gennaroguido2002@gmail.com 
 
 <!---
